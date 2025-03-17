@@ -65,7 +65,7 @@ http://127.0.0.1:8000/
 ![Login Page](screenshots/loginpage.png)
 
 ### 🔹 Admin Dashboard  
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](screenshots/admin_dashboard.png)
 
 ### 🔹 Student Dashboard  
-![Student Dashboard](screenshots/student-dashboard.png)
+![Student Dashboard](screenshots/student_dashboard.png)
